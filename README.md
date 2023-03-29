@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_x128.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_x128)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_x128?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-x128)
-
 # Commodore - C128 (VICE x128)
 
 ### Description
