@@ -493,6 +493,26 @@ msgctxt "#30116"
 msgid "RetroPad > Face Button Options"
 msgstr "Entrada > Opciones de caras de botones"
 
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Atajos > Alternar relación de aspecto"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Atajos > Alternar modo de acercamiento"
+
+#~ msgctxt "#30079"
+#~ msgid "Hotkey > Toggle Datasette Hotkeys"
+#~ msgstr "Atajos > Alternar atajos de teclado de datassete"
+
+#~ msgctxt "#30081"
+#~ msgid "Hotkey > Datasette STOP"
+#~ msgstr "Atajos > Detener datassete"
+
+#~ msgctxt "#30084"
+#~ msgid "Hotkey > Datasette RESET"
+#~ msgstr "Atajos > Reiniciar datassete"
+
 #~ msgctxt "#30045"
 #~ msgid "Show Audio Options"
 #~ msgstr "Mostrar opciones de audio"
@@ -616,26 +636,6 @@ msgstr "Entrada > Opciones de caras de botones"
 #~ msgctxt "#30075"
 #~ msgid "Hotkey > Hold Warp Mode"
 #~ msgstr "Atajos > Mantener modo Warp"
-
-#~ msgctxt "#30076"
-#~ msgid "Hotkey > Toggle Aspect Ratio"
-#~ msgstr "Atajos > Alternar relación de aspecto"
-
-#~ msgctxt "#30078"
-#~ msgid "Hotkey > Toggle Zoom Mode"
-#~ msgstr "Atajos > Alternar modo de acercamiento"
-
-#~ msgctxt "#30079"
-#~ msgid "Hotkey > Toggle Datasette Hotkeys"
-#~ msgstr "Atajos > Alternar atajos de teclado de datassete"
-
-#~ msgctxt "#30081"
-#~ msgid "Hotkey > Datasette STOP"
-#~ msgstr "Atajos > Detener datassete"
-
-#~ msgctxt "#30084"
-#~ msgid "Hotkey > Datasette RESET"
-#~ msgstr "Atajos > Reiniciar datassete"
 
 #~ msgctxt "#30085"
 #~ msgid "RetroPad > Up"

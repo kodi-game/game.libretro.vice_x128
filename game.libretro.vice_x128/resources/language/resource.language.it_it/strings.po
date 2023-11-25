@@ -493,6 +493,18 @@ msgctxt "#30116"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva proporzioni"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva ritaglio"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Tasto di scelta rapida > Attiva/disattiva modalità zoom"
+
 #~ msgctxt "#30043"
 #~ msgid "OSD > Statusbar Messages"
 #~ msgstr "OSD > Messaggi della barra di stato"
@@ -552,18 +564,6 @@ msgstr ""
 #~ msgctxt "#30074"
 #~ msgid "Hotkey > Reset"
 #~ msgstr "Tasto di scelta rapida > Reimposta"
-
-#~ msgctxt "#30076"
-#~ msgid "Hotkey > Toggle Aspect Ratio"
-#~ msgstr "Tasto di scelta rapida > Attiva/disattiva proporzioni"
-
-#~ msgctxt "#30077"
-#~ msgid "Hotkey > Toggle Crop"
-#~ msgstr "Tasto di scelta rapida > Attiva/disattiva ritaglio"
-
-#~ msgctxt "#30078"
-#~ msgid "Hotkey > Toggle Zoom Mode"
-#~ msgstr "Tasto di scelta rapida > Attiva/disattiva modalità zoom"
 
 #~ msgctxt "#30085"
 #~ msgid "RetroPad > Up"

@@ -493,6 +493,42 @@ msgctxt "#30116"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Genvej > Skift billedformat"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Genvej > Skift beskæring"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Genvej > Skift zoomtilstand"
+
+#~ msgctxt "#30079"
+#~ msgid "Hotkey > Toggle Datasette Hotkeys"
+#~ msgstr "Genvej > Skift genvejstaster for datasette"
+
+#~ msgctxt "#30080"
+#~ msgid "Hotkey > Datasette PLAY"
+#~ msgstr "Genvej > Afspil datasette"
+
+#~ msgctxt "#30081"
+#~ msgid "Hotkey > Datasette STOP"
+#~ msgstr "Genvej > Stop datasette"
+
+#~ msgctxt "#30082"
+#~ msgid "Hotkey > Datasette REWIND"
+#~ msgstr "Genvej > Tilbagespol datasette"
+
+#~ msgctxt "#30083"
+#~ msgid "Hotkey > Datasette F.FWD"
+#~ msgstr "Genvej > Spol hurtigt frem på datasette"
+
+#~ msgctxt "#30084"
+#~ msgid "Hotkey > Datasette RESET"
+#~ msgstr "Genvej > Nulstil datasette"
+
 #~ msgctxt "#30043"
 #~ msgid "OSD > Statusbar Messages"
 #~ msgstr "OSD > Beskeder for statuslinje"
@@ -624,42 +660,6 @@ msgstr ""
 #~ msgctxt "#30075"
 #~ msgid "Hotkey > Hold Warp Mode"
 #~ msgstr "Genvej > Hold warp-tilstand"
-
-#~ msgctxt "#30076"
-#~ msgid "Hotkey > Toggle Aspect Ratio"
-#~ msgstr "Genvej > Skift billedformat"
-
-#~ msgctxt "#30077"
-#~ msgid "Hotkey > Toggle Crop"
-#~ msgstr "Genvej > Skift beskæring"
-
-#~ msgctxt "#30078"
-#~ msgid "Hotkey > Toggle Zoom Mode"
-#~ msgstr "Genvej > Skift zoomtilstand"
-
-#~ msgctxt "#30079"
-#~ msgid "Hotkey > Toggle Datasette Hotkeys"
-#~ msgstr "Genvej > Skift genvejstaster for datasette"
-
-#~ msgctxt "#30080"
-#~ msgid "Hotkey > Datasette PLAY"
-#~ msgstr "Genvej > Afspil datasette"
-
-#~ msgctxt "#30081"
-#~ msgid "Hotkey > Datasette STOP"
-#~ msgstr "Genvej > Stop datasette"
-
-#~ msgctxt "#30082"
-#~ msgid "Hotkey > Datasette REWIND"
-#~ msgstr "Genvej > Tilbagespol datasette"
-
-#~ msgctxt "#30083"
-#~ msgid "Hotkey > Datasette F.FWD"
-#~ msgstr "Genvej > Spol hurtigt frem på datasette"
-
-#~ msgctxt "#30084"
-#~ msgid "Hotkey > Datasette RESET"
-#~ msgstr "Genvej > Nulstil datasette"
 
 #~ msgctxt "#30085"
 #~ msgid "RetroPad > Up"

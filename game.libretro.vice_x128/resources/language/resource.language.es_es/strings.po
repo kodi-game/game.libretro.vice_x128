@@ -493,6 +493,42 @@ msgctxt "#30116"
 msgid "RetroPad > Face Button Options"
 msgstr "RetroPad > Opciones Botón Frontal"
 
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Tecla Rápida > Cambiar Relación de Aspecto"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Tecla Rápida > Activar Recorte"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "Tecla Rápida > Activar Modo Zoom"
+
+#~ msgctxt "#30079"
+#~ msgid "Hotkey > Toggle Datasette Hotkeys"
+#~ msgstr "Tecla Rápida > Activar Teclas Rápidas Datasette"
+
+#~ msgctxt "#30080"
+#~ msgid "Hotkey > Datasette PLAY"
+#~ msgstr "Tecla Rápida > PLAY Datasette"
+
+#~ msgctxt "#30081"
+#~ msgid "Hotkey > Datasette STOP"
+#~ msgstr "Tecla Rápida > STOP Datasette"
+
+#~ msgctxt "#30082"
+#~ msgid "Hotkey > Datasette REWIND"
+#~ msgstr "Tecla Rápida > REWIND Datasette"
+
+#~ msgctxt "#30083"
+#~ msgid "Hotkey > Datasette F.FWD"
+#~ msgstr "Tecla Rápida > F.FWD Datasette"
+
+#~ msgctxt "#30084"
+#~ msgid "Hotkey > Datasette RESET"
+#~ msgstr "Tecla Rápida > RESET Datasette"
+
 #~ msgctxt "#30043"
 #~ msgid "OSD > Statusbar Messages"
 #~ msgstr "OSD > Mensajes en la Barra de Estado"
@@ -624,42 +660,6 @@ msgstr "RetroPad > Opciones Botón Frontal"
 #~ msgctxt "#30075"
 #~ msgid "Hotkey > Hold Warp Mode"
 #~ msgstr "Tecla Rápida > Mantener Modo Warp"
-
-#~ msgctxt "#30076"
-#~ msgid "Hotkey > Toggle Aspect Ratio"
-#~ msgstr "Tecla Rápida > Cambiar Relación de Aspecto"
-
-#~ msgctxt "#30077"
-#~ msgid "Hotkey > Toggle Crop"
-#~ msgstr "Tecla Rápida > Activar Recorte"
-
-#~ msgctxt "#30078"
-#~ msgid "Hotkey > Toggle Zoom Mode"
-#~ msgstr "Tecla Rápida > Activar Modo Zoom"
-
-#~ msgctxt "#30079"
-#~ msgid "Hotkey > Toggle Datasette Hotkeys"
-#~ msgstr "Tecla Rápida > Activar Teclas Rápidas Datasette"
-
-#~ msgctxt "#30080"
-#~ msgid "Hotkey > Datasette PLAY"
-#~ msgstr "Tecla Rápida > PLAY Datasette"
-
-#~ msgctxt "#30081"
-#~ msgid "Hotkey > Datasette STOP"
-#~ msgstr "Tecla Rápida > STOP Datasette"
-
-#~ msgctxt "#30082"
-#~ msgid "Hotkey > Datasette REWIND"
-#~ msgstr "Tecla Rápida > REWIND Datasette"
-
-#~ msgctxt "#30083"
-#~ msgid "Hotkey > Datasette F.FWD"
-#~ msgstr "Tecla Rápida > F.FWD Datasette"
-
-#~ msgctxt "#30084"
-#~ msgid "Hotkey > Datasette RESET"
-#~ msgstr "Tecla Rápida > RESET Datasette"
 
 #~ msgctxt "#30085"
 #~ msgid "RetroPad > Up"

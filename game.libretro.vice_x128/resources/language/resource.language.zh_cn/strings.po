@@ -493,6 +493,42 @@ msgctxt "#30116"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "热键 > 切换纵横比"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "热键 > 切换裁剪"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Toggle Zoom Mode"
+#~ msgstr "热键 > 切换缩放模式"
+
+#~ msgctxt "#30079"
+#~ msgid "Hotkey > Toggle Datasette Hotkeys"
+#~ msgstr "热键 > 切换磁带机热键"
+
+#~ msgctxt "#30080"
+#~ msgid "Hotkey > Datasette PLAY"
+#~ msgstr "热键 > 磁带机播放"
+
+#~ msgctxt "#30081"
+#~ msgid "Hotkey > Datasette STOP"
+#~ msgstr "热键 > 磁带机停止"
+
+#~ msgctxt "#30082"
+#~ msgid "Hotkey > Datasette REWIND"
+#~ msgstr "热键 > 磁带机倒带"
+
+#~ msgctxt "#30083"
+#~ msgid "Hotkey > Datasette F.FWD"
+#~ msgstr "热键 > 磁带机快进"
+
+#~ msgctxt "#30084"
+#~ msgid "Hotkey > Datasette RESET"
+#~ msgstr "热键 > 磁带机重置"
+
 #~ msgctxt "#30043"
 #~ msgid "OSD > Statusbar Messages"
 #~ msgstr "OSD > 状态栏信息"
@@ -624,42 +660,6 @@ msgstr ""
 #~ msgctxt "#30075"
 #~ msgid "Hotkey > Hold Warp Mode"
 #~ msgstr "热键 > 保持 Warp 模式"
-
-#~ msgctxt "#30076"
-#~ msgid "Hotkey > Toggle Aspect Ratio"
-#~ msgstr "热键 > 切换纵横比"
-
-#~ msgctxt "#30077"
-#~ msgid "Hotkey > Toggle Crop"
-#~ msgstr "热键 > 切换裁剪"
-
-#~ msgctxt "#30078"
-#~ msgid "Hotkey > Toggle Zoom Mode"
-#~ msgstr "热键 > 切换缩放模式"
-
-#~ msgctxt "#30079"
-#~ msgid "Hotkey > Toggle Datasette Hotkeys"
-#~ msgstr "热键 > 切换磁带机热键"
-
-#~ msgctxt "#30080"
-#~ msgid "Hotkey > Datasette PLAY"
-#~ msgstr "热键 > 磁带机播放"
-
-#~ msgctxt "#30081"
-#~ msgid "Hotkey > Datasette STOP"
-#~ msgstr "热键 > 磁带机停止"
-
-#~ msgctxt "#30082"
-#~ msgid "Hotkey > Datasette REWIND"
-#~ msgstr "热键 > 磁带机倒带"
-
-#~ msgctxt "#30083"
-#~ msgid "Hotkey > Datasette F.FWD"
-#~ msgstr "热键 > 磁带机快进"
-
-#~ msgctxt "#30084"
-#~ msgid "Hotkey > Datasette RESET"
-#~ msgstr "热键 > 磁带机重置"
 
 #~ msgctxt "#30085"
 #~ msgid "RetroPad > Up"
