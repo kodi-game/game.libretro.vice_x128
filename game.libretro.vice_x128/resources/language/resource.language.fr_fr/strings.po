@@ -493,6 +493,10 @@ msgctxt "#30116"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+msgctxt "#30117"
+msgid "System > Printer"
+msgstr ""
+
 #~ msgctxt "#30003"
 #~ msgid "System > JiffyDOS"
 #~ msgstr "Système > JiffyDOS"
