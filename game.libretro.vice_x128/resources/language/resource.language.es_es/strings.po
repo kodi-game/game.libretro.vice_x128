@@ -273,10 +273,6 @@ msgctxt "#30061"
 msgid "Input > Analog Stick Mouse Deadzone"
 msgstr "Entrada > Zona Muerta Stick Analógico del Ratón"
 
-msgctxt "#30062"
-msgid "Input > Analog Stick Mouse Speed"
-msgstr "Entrada > Velocidad Stick Analógico del Ratón"
-
 msgctxt "#30063"
 msgid "Input > D-Pad Mouse Speed"
 msgstr "Entrada > Velocidad D-Pad del Ratón"
@@ -496,6 +492,26 @@ msgstr "RetroPad > Opciones Botón Frontal"
 msgctxt "#30117"
 msgid "System > Printer"
 msgstr "Sistema > Impresora"
+
+msgctxt "#30118"
+msgid "Media > Floppy MultiDrive"
+msgstr ""
+
+msgctxt "#30119"
+msgid "Video > Automatic Crop Delay"
+msgstr ""
+
+msgctxt "#30120"
+msgid "Input > Left Analog Stick Mouse Speed"
+msgstr ""
+
+msgctxt "#30121"
+msgid "Input > Right Analog Stick Mouse Speed"
+msgstr ""
+
+#~ msgctxt "#30062"
+#~ msgid "Input > Analog Stick Mouse Speed"
+#~ msgstr "Entrada > Velocidad Stick Analógico del Ratón"
 
 #~ msgctxt "#30076"
 #~ msgid "Hotkey > Toggle Aspect Ratio"
