@@ -2885,6 +2885,14 @@ msgctxt "#30704"
 msgid "Purple"
 msgstr ""
 
+msgctxt "#30705"
+msgid "6581"
+msgstr ""
+
+msgctxt "#30706"
+msgid "8580"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Asetukset"
