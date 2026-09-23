@@ -834,9 +834,9 @@ msgctxt "#30206"
 msgid "1:1"
 msgstr ""
 
-msgctxt "#30207"
-msgid "Remove borders according to 'Crop Mode'."
-msgstr ""
+#~ msgctxt "#30207"
+#~ msgid "Remove borders according to 'Crop Mode'."
+#~ msgstr ""
 
 msgctxt "#30208"
 msgid "Small"
@@ -2832,4 +2832,8 @@ msgstr ""
 
 msgctxt "#30706"
 msgid "8580"
+msgstr ""
+
+msgctxt "#30707"
+msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
 msgstr ""
