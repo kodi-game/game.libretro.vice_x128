@@ -25,473 +25,17 @@ msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
 msgstr "VICE je zkratka pro Versatile Commodore Emulator. Aktuální verze emuluje C64, C64DTV, C128, VIC20, prakticky všechny modely PET, PLUS4 a CBM-II (také C610/C510)."
 
-msgctxt "#30001"
-msgid "System > Model"
-msgstr "Systém > Model"
-
-msgctxt "#30002"
-msgid "System > RAM Expansion Unit"
-msgstr "Systém > Rozšiřující jednotka RAM"
-
-msgctxt "#30003"
-msgid "System > Video Output"
-msgstr "Systém > Výstup videa"
-
-msgctxt "#30004"
-msgid "System > VDC Video RAM"
-msgstr "Systém > Video RAM VDC"
-
-msgctxt "#30005"
-msgid "System > GO64"
-msgstr "Systém > GO64"
-
-msgctxt "#30006"
-msgid "System > JiffyDOS"
-msgstr "Systém > JiffyDOS"
-
-msgctxt "#30007"
-msgid "System > Read 'vicerc'"
-msgstr "Systém > Načíst 'vicerc'"
-
-msgctxt "#30008"
-msgid "System > Reset Type"
-msgstr "Systém > Typ resetu"
-
-msgctxt "#30009"
-msgid "Media > Automatic Load Warp"
-msgstr "Média > Automatické zrychlení při načítání"
-
-msgctxt "#30010"
-msgid "Media > Warp Boost"
-msgstr "Média > Posílení zrychleného režimu"
-
-msgctxt "#30011"
-msgid "Media > Autostart"
-msgstr "Média > Automatické spuštění"
-
-msgctxt "#30012"
-msgid "Media > True Drive Emulation"
-msgstr "Média > Věrná emulace mechaniky"
-
-msgctxt "#30013"
-msgid "Media > Virtual Device Traps"
-msgstr "Média > Zachytávání virtuálních zařízení"
-
-msgctxt "#30014"
-msgid "Media > Floppy Write Protection"
-msgstr "Média > Ochrana disket proti zápisu"
-
-msgctxt "#30015"
-msgid "Media > EasyFlash Write Protection"
-msgstr "Média > Ochrana EasyFlash proti zápisu"
-
-msgctxt "#30016"
-msgid "Media > Global Work Disk"
-msgstr "Média > Globální pracovní disk"
-
-msgctxt "#30017"
-msgid "Media > Cartridge"
-msgstr "Média > Cartridge"
-
 msgctxt "#30018"
 msgid "Show Video Options"
 msgstr "Zobrazit volby videa"
-
-msgctxt "#30019"
-msgid "Video > Pixel Aspect Ratio"
-msgstr "Video > Poměr stran pixelů"
-
-msgctxt "#30020"
-msgid "Video > Crop"
-msgstr "Video > Oříznutí"
-
-msgctxt "#30022"
-msgid "Video > Crop Mode"
-msgstr "Video > Režim oříznutí"
-
-msgctxt "#30024"
-msgid "Video > Manual Crop Top"
-msgstr "Video > Ruční oříznutí nahoře"
-
-msgctxt "#30025"
-msgid "Video > Manual Crop Bottom"
-msgstr "Video > Ruční oříznutí dole"
-
-msgctxt "#30026"
-msgid "Video > Manual Crop Left"
-msgstr "Video > Ruční oříznutí vlevo"
-
-msgctxt "#30027"
-msgid "Video > Manual Crop Right"
-msgstr "Video > Ruční oříznutí vpravo"
-
-msgctxt "#30028"
-msgid "Video > VDC Filter"
-msgstr "Video > Filtr VDC"
-
-msgctxt "#30029"
-msgid "Video > VIC-II Filter"
-msgstr "Video > Filtr VIC-II"
-
-msgctxt "#30030"
-msgid "Video > VIC-II Filter Oddline Offset"
-msgstr "Video > Posun lichých řádků filtru VIC-II"
-
-msgctxt "#30031"
-msgid "Video > VIC-II Filter Oddline Phase"
-msgstr "Video > Fáze lichých řádků filtru VIC-II"
-
-msgctxt "#30032"
-msgid "Video > VIC-II Color Palette"
-msgstr "Video > Barevná paleta VIC-II"
-
-msgctxt "#30033"
-msgid "Video > VIC-II Color Gamma"
-msgstr "Video > Gama barev VIC-II"
-
-msgctxt "#30034"
-msgid "Video > VIC-II Color Brightness"
-msgstr "Video > Jas barev VIC-II"
-
-msgctxt "#30035"
-msgid "Video > VIC-II Color Contrast"
-msgstr "Video > Kontrast barev VIC-II"
-
-msgctxt "#30036"
-msgid "Video > VIC-II Color Saturation"
-msgstr "Video > Sytost barev VIC-II"
-
-msgctxt "#30037"
-msgid "Video > VIC-II Color Tint"
-msgstr "Video > Odstín barev VIC-II"
-
-msgctxt "#30038"
-msgid "Video > Color Depth"
-msgstr "Video > Barevná hloubka"
-
-msgctxt "#30039"
-msgid "OSD > Virtual KBD Theme"
-msgstr "OSD > Motiv virtuální klávesnice"
-
-msgctxt "#30040"
-msgid "OSD > Virtual KBD Transparency"
-msgstr "OSD > Průhlednost virtuální klávesnice"
-
-msgctxt "#30041"
-msgid "OSD > Virtual KBD Dimming"
-msgstr "OSD > Ztmavení okolí virtuální klávesnice"
-
-msgctxt "#30042"
-msgid "OSD > Statusbar Mode"
-msgstr "OSD > Režim stavového řádku"
-
-msgctxt "#30043"
-msgid "OSD > Statusbar Startup"
-msgstr "OSD > Stavový řádek při spuštění"
-
-msgctxt "#30044"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > Zprávy stavového řádku"
-
-msgctxt "#30045"
-msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr "OSD > Barva ukazatele světelného pera/pistole"
 
 msgctxt "#30046"
 msgid "Show Audio Options"
 msgstr "Zobrazit volby zvuku"
 
-msgctxt "#30047"
-msgid "Audio > Drive Sound Emulation"
-msgstr "Zvuk > Emulace zvuku disketové mechaniky"
-
-msgctxt "#30048"
-msgid "Audio > Datasette Sound"
-msgstr "Zvuk > Zvuk jednotky Datasette"
-
-msgctxt "#30049"
-msgid "Audio > VIC-II Audio Leak Emulation"
-msgstr "Zvuk > Emulace zvukového přeslechu VIC-II"
-
-msgctxt "#30050"
-msgid "Audio > SID Engine"
-msgstr "Zvuk > Zvukový engine SID"
-
-msgctxt "#30051"
-msgid "Audio > SID Model"
-msgstr "Zvuk > Model SID"
-
-msgctxt "#30052"
-msgid "Audio > SID Extra"
-msgstr "Zvuk > Dodatečný SID"
-
-msgctxt "#30053"
-msgid "Audio > ReSID Sampling"
-msgstr "Zvuk > Vzorkování ReSID"
-
-msgctxt "#30054"
-msgid "Audio > ReSID Filter Passband"
-msgstr "Zvuk > Propustné pásmo filtru ReSID"
-
-msgctxt "#30055"
-msgid "Audio > ReSID Filter Gain"
-msgstr "Zvuk > Zesílení filtru ReSID"
-
-msgctxt "#30056"
-msgid "Audio > ReSID Filter 6581 Bias"
-msgstr "Zvuk > Předpětí filtru ReSID 6581"
-
-msgctxt "#30057"
-msgid "Audio > ReSID Filter 8580 Bias"
-msgstr "Zvuk > Předpětí filtru ReSID 8580"
-
-msgctxt "#30058"
-msgid "Audio > SFX Sound Expander"
-msgstr "Zvuk > SFX Sound Expander"
-
-msgctxt "#30059"
-msgid "Audio > Sample Rate"
-msgstr "Zvuk > Vzorkovací frekvence"
-
-msgctxt "#30060"
-msgid "Input > Analog Stick Mouse"
-msgstr "Vstup > Myš přes analogovou páčku"
-
-msgctxt "#30061"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "Vstup > Mrtvá zóna analogové páčky pro myš"
-
-msgctxt "#30063"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "Vstup > Rychlost myši přes směrový ovladač"
-
-msgctxt "#30064"
-msgid "Input > Mouse Speed"
-msgstr "Vstup > Rychlost myši"
-
-msgctxt "#30065"
-msgid "Input > Keyboard Pass-through"
-msgstr "Vstup > Předávání klávesnice"
-
-msgctxt "#30066"
-msgid "Input > Datasette Hotkeys"
-msgstr "Vstup > Zkratky jednotky Datasette"
-
-msgctxt "#30067"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "Vstup > Mapování numerické klávesnice Keyrah"
-
-msgctxt "#30068"
-msgid "Input > Keyboard Keymap"
-msgstr "Vstup > Mapování klávesnice"
-
 msgctxt "#30069"
 msgid "Show Mapping Options"
 msgstr "Zobrazit volby mapování"
-
-msgctxt "#30070"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "Zkratka > Přepnout virtuální klávesnici"
-
-msgctxt "#30071"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "Zkratka > Přepnout stavový řádek"
-
-msgctxt "#30072"
-msgid "Hotkey > Switch Joyport"
-msgstr "Zkratka > Přepnout joyport"
-
-msgctxt "#30073"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "Zkratka > Přepnout automatickou střelbu"
-
-msgctxt "#30074"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "Zkratka > Přepnout ukládací disk"
-
-msgctxt "#30075"
-msgid "Hotkey > Reset"
-msgstr "Zkratka > Resetovat"
-
-msgctxt "#30076"
-msgid "Hotkey > Hold Warp Mode"
-msgstr "Zkratka > Držet zrychlený režim"
-
-msgctxt "#30077"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "Zkratka > Přepnout poměr stran"
-
-msgctxt "#30078"
-msgid "Hotkey > Toggle Crop"
-msgstr "Zkratka > Přepnout oříznutí"
-
-msgctxt "#30080"
-msgid "Hotkey > Toggle Datasette Hotkeys"
-msgstr "Zkratka > Přepnout zkratky jednotky Datasette"
-
-msgctxt "#30081"
-msgid "Hotkey > Datasette PLAY"
-msgstr "Zkratka > Datasette PŘEHRÁT"
-
-msgctxt "#30082"
-msgid "Hotkey > Datasette STOP"
-msgstr "Zkratka > Datasette ZASTAVIT"
-
-msgctxt "#30083"
-msgid "Hotkey > Datasette REWIND"
-msgstr "Zkratka > Datasette PŘETOČIT ZPĚT"
-
-msgctxt "#30084"
-msgid "Hotkey > Datasette F.FWD"
-msgstr "Zkratka > Datasette RYCHLE VPŘED"
-
-msgctxt "#30085"
-msgid "Hotkey > Datasette RESET"
-msgstr "Zkratka > Datasette RESETOVAT"
-
-msgctxt "#30086"
-msgid "RetroPad > Up"
-msgstr "RetroPad > Nahoru"
-
-msgctxt "#30087"
-msgid "RetroPad > Down"
-msgstr "RetroPad > Dolů"
-
-msgctxt "#30088"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Doleva"
-
-msgctxt "#30089"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Doprava"
-
-msgctxt "#30090"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
-
-msgctxt "#30091"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
-
-msgctxt "#30092"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
-
-msgctxt "#30093"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
-
-msgctxt "#30094"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Select"
-
-msgctxt "#30095"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Start"
-
-msgctxt "#30096"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
-
-msgctxt "#30097"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
-
-msgctxt "#30098"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
-
-msgctxt "#30099"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
-
-msgctxt "#30100"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
-
-msgctxt "#30101"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
-
-msgctxt "#30102"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Levá analogová páčka > Nahoru"
-
-msgctxt "#30103"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Levá analogová páčka > Dolů"
-
-msgctxt "#30104"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Levá analogová páčka > Doleva"
-
-msgctxt "#30105"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Levá analogová páčka > Doprava"
-
-msgctxt "#30106"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Pravá analogová páčka > Nahoru"
-
-msgctxt "#30107"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Pravá analogová páčka > Dolů"
-
-msgctxt "#30108"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Pravá analogová páčka > Doleva"
-
-msgctxt "#30109"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Pravá analogová páčka > Doprava"
-
-msgctxt "#30110"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Automatická střelba"
-
-msgctxt "#30111"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Tlačítko automatické střelby"
-
-msgctxt "#30112"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Pulz automatické střelby"
-
-msgctxt "#30113"
-msgid "Input > Userport Joystick Adapter"
-msgstr "Vstup > Adaptér joysticku pro Userport"
-
-msgctxt "#30114"
-msgid "RetroPad > Joystick Port"
-msgstr "RetroPad > Port joysticku"
-
-msgctxt "#30115"
-msgid "RetroPad > Joystick Port Type"
-msgstr "RetroPad > Typ portu joysticku"
-
-msgctxt "#30116"
-msgid "RetroPad > Face Button Options"
-msgstr "RetroPad > Volby čelních tlačítek"
-
-msgctxt "#30117"
-msgid "System > Printer"
-msgstr "Systém > Tiskárna"
-
-msgctxt "#30118"
-msgid "Media > Floppy MultiDrive"
-msgstr "Média > Více disketových mechanik"
-
-msgctxt "#30119"
-msgid "Video > Automatic Crop Delay"
-msgstr "Video > Prodleva automatického oříznutí"
-
-msgctxt "#30120"
-msgid "Input > Left Analog Stick Mouse Speed"
-msgstr "Vstup > Rychlost myši přes levou analogovou páčku"
-
-msgctxt "#30121"
-msgid "Input > Right Analog Stick Mouse Speed"
-msgstr "Vstup > Rychlost myši přes pravou analogovou páčku"
 
 msgctxt "#30122"
 msgid "System"
@@ -2952,6 +2496,898 @@ msgstr "8580"
 msgctxt "#30707"
 msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
 msgstr "Odstraní okraje podle 'Režimu oříznutí'. Volba 'Automaticky deaktivovat' zůstane deaktivovaná až do resetování obsahu."
+
+msgctxt "#30708"
+msgid "Model"
+msgstr "Model"
+
+msgctxt "#30709"
+msgid "RAM Expansion Unit"
+msgstr "Rozšiřující jednotka RAM"
+
+msgctxt "#30710"
+msgid "Video Output"
+msgstr "Výstup videa"
+
+msgctxt "#30711"
+msgid "VDC Video RAM"
+msgstr "Video RAM VDC"
+
+msgctxt "#30712"
+msgid "GO64"
+msgstr "GO64"
+
+msgctxt "#30713"
+msgid "Printer"
+msgstr "Tiskárna"
+
+msgctxt "#30714"
+msgid "JiffyDOS"
+msgstr "JiffyDOS"
+
+msgctxt "#30715"
+msgid "Read 'vicerc'"
+msgstr "Načíst 'vicerc'"
+
+msgctxt "#30716"
+msgid "Reset Type"
+msgstr "Typ resetu"
+
+msgctxt "#30749"
+msgid "Automatic Load Warp"
+msgstr "Automatické zrychlení při načítání"
+
+msgctxt "#30750"
+msgid "Warp Boost"
+msgstr "Posílení zrychleného režimu"
+
+msgctxt "#30751"
+msgid "True Drive Emulation"
+msgstr "Věrná emulace mechaniky"
+
+msgctxt "#30752"
+msgid "Virtual Device Traps"
+msgstr "Zachytávání virtuálních zařízení"
+
+msgctxt "#30753"
+msgid "Floppy MultiDrive"
+msgstr "Více disketových mechanik"
+
+msgctxt "#30754"
+msgid "Floppy Write Protection"
+msgstr "Ochrana disket proti zápisu"
+
+msgctxt "#30755"
+msgid "EasyFlash Write Protection"
+msgstr "Ochrana EasyFlash proti zápisu"
+
+msgctxt "#30756"
+msgid "Global Work Disk"
+msgstr "Globální pracovní disk"
+
+msgctxt "#30757"
+msgid "Cartridge"
+msgstr "Cartridge"
+
+msgctxt "#30730"
+msgid "Pixel Aspect Ratio"
+msgstr "Poměr stran pixelů"
+
+msgctxt "#30731"
+msgid "Crop"
+msgstr "Oříznutí"
+
+msgctxt "#30732"
+msgid "Automatic Crop Delay"
+msgstr "Prodleva automatického oříznutí"
+
+msgctxt "#30733"
+msgid "Crop Mode"
+msgstr "Režim oříznutí"
+
+msgctxt "#30734"
+msgid "Manual Crop Top"
+msgstr "Ruční oříznutí nahoře"
+
+msgctxt "#30735"
+msgid "Manual Crop Bottom"
+msgstr "Ruční oříznutí dole"
+
+msgctxt "#30736"
+msgid "Manual Crop Left"
+msgstr "Ruční oříznutí vlevo"
+
+msgctxt "#30737"
+msgid "Manual Crop Right"
+msgstr "Ruční oříznutí vpravo"
+
+msgctxt "#30738"
+msgid "VDC Filter"
+msgstr "Filtr VDC"
+
+msgctxt "#30739"
+msgid "VIC-II Filter"
+msgstr "Filtr VIC-II"
+
+msgctxt "#30740"
+msgid "VIC-II Filter Oddline Offset"
+msgstr "Posun lichých řádků filtru VIC-II"
+
+msgctxt "#30741"
+msgid "VIC-II Filter Oddline Phase"
+msgstr "Fáze lichých řádků filtru VIC-II"
+
+msgctxt "#30742"
+msgid "VIC-II Color Palette"
+msgstr "Barevná paleta VIC-II"
+
+msgctxt "#30743"
+msgid "VIC-II Color Gamma"
+msgstr "Gama barev VIC-II"
+
+msgctxt "#30744"
+msgid "VIC-II Color Brightness"
+msgstr "Jas barev VIC-II"
+
+msgctxt "#30745"
+msgid "VIC-II Color Contrast"
+msgstr "Kontrast barev VIC-II"
+
+msgctxt "#30746"
+msgid "VIC-II Color Saturation"
+msgstr "Sytost barev VIC-II"
+
+msgctxt "#30747"
+msgid "VIC-II Color Tint"
+msgstr "Odstín barev VIC-II"
+
+msgctxt "#30748"
+msgid "Color Depth"
+msgstr "Barevná hloubka"
+
+msgctxt "#30811"
+msgid "Virtual KBD Theme"
+msgstr "Motiv virtuální klávesnice"
+
+msgctxt "#30812"
+msgid "Virtual KBD Transparency"
+msgstr "Průhlednost virtuální klávesnice"
+
+msgctxt "#30813"
+msgid "Virtual KBD Dimming"
+msgstr "Ztmavení okolí virtuální klávesnice"
+
+msgctxt "#30814"
+msgid "Statusbar Mode"
+msgstr "Režim stavového řádku"
+
+msgctxt "#30815"
+msgid "Statusbar Startup"
+msgstr "Stavový řádek při spuštění"
+
+msgctxt "#30816"
+msgid "Statusbar Messages"
+msgstr "Zprávy stavového řádku"
+
+msgctxt "#30817"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Barva ukazatele světelného pera/pistole"
+
+msgctxt "#30717"
+msgid "Drive Sound Emulation"
+msgstr "Emulace zvuku disketové mechaniky"
+
+msgctxt "#30718"
+msgid "Datasette Sound"
+msgstr "Zvuk jednotky Datasette"
+
+msgctxt "#30719"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "Emulace zvukového přeslechu VIC-II"
+
+msgctxt "#30720"
+msgid "SID Engine"
+msgstr "Zvukový engine SID"
+
+msgctxt "#30721"
+msgid "SID Model"
+msgstr "Model SID"
+
+msgctxt "#30722"
+msgid "SID Extra"
+msgstr "Dodatečný SID"
+
+msgctxt "#30723"
+msgid "ReSID Sampling"
+msgstr "Vzorkování ReSID"
+
+msgctxt "#30724"
+msgid "ReSID Filter Passband"
+msgstr "Propustné pásmo filtru ReSID"
+
+msgctxt "#30725"
+msgid "ReSID Filter Gain"
+msgstr "Zesílení filtru ReSID"
+
+msgctxt "#30726"
+msgid "ReSID Filter 6581 Bias"
+msgstr "Předpětí filtru ReSID 6581"
+
+msgctxt "#30727"
+msgid "ReSID Filter 8580 Bias"
+msgstr "Předpětí filtru ReSID 8580"
+
+msgctxt "#30728"
+msgid "SFX Sound Expander"
+msgstr "SFX Sound Expander"
+
+msgctxt "#30729"
+msgid "Sample Rate"
+msgstr "Vzorkovací frekvence"
+
+msgctxt "#30758"
+msgid "Analog Stick Mouse"
+msgstr "Myš přes analogovou páčku"
+
+msgctxt "#30759"
+msgid "Analog Stick Mouse Deadzone"
+msgstr "Mrtvá zóna analogové páčky pro myš"
+
+msgctxt "#30760"
+msgid "Left Analog Stick Mouse Speed"
+msgstr "Rychlost myši přes levou analogovou páčku"
+
+msgctxt "#30761"
+msgid "Right Analog Stick Mouse Speed"
+msgstr "Rychlost myši přes pravou analogovou páčku"
+
+msgctxt "#30762"
+msgid "D-Pad Mouse Speed"
+msgstr "Rychlost myši přes směrový ovladač"
+
+msgctxt "#30763"
+msgid "Mouse Speed"
+msgstr "Rychlost myši"
+
+msgctxt "#30764"
+msgid "Keyboard Pass-through"
+msgstr "Předávání klávesnice"
+
+msgctxt "#30765"
+msgid "Datasette Hotkeys"
+msgstr "Zkratky jednotky Datasette"
+
+msgctxt "#30766"
+msgid "Keyrah Keypad Mappings"
+msgstr "Mapování numerické klávesnice Keyrah"
+
+msgctxt "#30767"
+msgid "Keyboard Keymap"
+msgstr "Mapování klávesnice"
+
+msgctxt "#30775"
+msgid "Toggle Turbo Fire"
+msgstr "Přepnout automatickou střelbu"
+
+msgctxt "#30776"
+msgid "Toggle Save Disk"
+msgstr "Přepnout ukládací disk"
+
+msgctxt "#30777"
+msgid "Toggle Aspect Ratio"
+msgstr "Přepnout poměr stran"
+
+msgctxt "#30778"
+msgid "Toggle Crop"
+msgstr "Přepnout oříznutí"
+
+msgctxt "#30779"
+msgid "Toggle Datasette Hotkeys"
+msgstr "Přepnout zkratky jednotky Datasette"
+
+msgctxt "#30780"
+msgid "Datasette PLAY"
+msgstr "Datasette PŘEHRÁT"
+
+msgctxt "#30781"
+msgid "Datasette STOP"
+msgstr "Datasette ZASTAVIT"
+
+msgctxt "#30782"
+msgid "Datasette REWIND"
+msgstr "Datasette PŘETOČIT ZPĚT"
+
+msgctxt "#30783"
+msgid "Datasette F.FWD"
+msgstr "Datasette RYCHLE VPŘED"
+
+msgctxt "#30784"
+msgid "Datasette RESET"
+msgstr "Datasette RESETOVAT"
+
+msgctxt "#30785"
+msgid "Reset"
+msgstr "Resetovat"
+
+msgctxt "#30786"
+msgid "Hold Warp Mode"
+msgstr "Držet zrychlený režim"
+
+msgctxt "#30787"
+msgid "Up"
+msgstr "Nahoru"
+
+msgctxt "#30788"
+msgid "Down"
+msgstr "Dolů"
+
+msgctxt "#30789"
+msgid "Left"
+msgstr "Doleva"
+
+msgctxt "#30790"
+msgid "Right"
+msgstr "Doprava"
+
+msgctxt "#30791"
+msgid "B"
+msgstr "B"
+
+msgctxt "#30792"
+msgid "A"
+msgstr "A"
+
+msgctxt "#30793"
+msgid "Y"
+msgstr "Y"
+
+msgctxt "#30794"
+msgid "X"
+msgstr "X"
+
+msgctxt "#30795"
+msgid "Select"
+msgstr "Select"
+
+msgctxt "#30796"
+msgid "Start"
+msgstr "Start"
+
+msgctxt "#30797"
+msgid "L"
+msgstr "L"
+
+msgctxt "#30798"
+msgid "R"
+msgstr "R"
+
+msgctxt "#30799"
+msgid "L2"
+msgstr "L2"
+
+msgctxt "#30800"
+msgid "R2"
+msgstr "R2"
+
+msgctxt "#30801"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#30802"
+msgid "R3"
+msgstr "R3"
+
+msgctxt "#30803"
+msgid "Left Analog > Up"
+msgstr "Levá analogová páčka > Nahoru"
+
+msgctxt "#30804"
+msgid "Left Analog > Down"
+msgstr "Levá analogová páčka > Dolů"
+
+msgctxt "#30805"
+msgid "Left Analog > Left"
+msgstr "Levá analogová páčka > Doleva"
+
+msgctxt "#30806"
+msgid "Left Analog > Right"
+msgstr "Levá analogová páčka > Doprava"
+
+msgctxt "#30807"
+msgid "Right Analog > Up"
+msgstr "Pravá analogová páčka > Nahoru"
+
+msgctxt "#30808"
+msgid "Right Analog > Down"
+msgstr "Pravá analogová páčka > Dolů"
+
+msgctxt "#30809"
+msgid "Right Analog > Left"
+msgstr "Pravá analogová páčka > Doleva"
+
+msgctxt "#30810"
+msgid "Right Analog > Right"
+msgstr "Pravá analogová páčka > Doprava"
+
+msgctxt "#30768"
+msgid "Turbo Fire"
+msgstr "Automatická střelba"
+
+msgctxt "#30769"
+msgid "Turbo Button"
+msgstr "Tlačítko automatické střelby"
+
+msgctxt "#30770"
+msgid "Turbo Pulse"
+msgstr "Pulz automatické střelby"
+
+msgctxt "#30771"
+msgid "Userport Joystick Adapter"
+msgstr "Adaptér joysticku pro Userport"
+
+msgctxt "#30772"
+msgid "Joystick Port"
+msgstr "Port joysticku"
+
+msgctxt "#30773"
+msgid "Joystick Port Type"
+msgstr "Typ portu joysticku"
+
+#~ msgctxt "#30001"
+#~ msgid "System > Model"
+#~ msgstr "Systém > Model"
+
+#~ msgctxt "#30002"
+#~ msgid "System > RAM Expansion Unit"
+#~ msgstr "Systém > Rozšiřující jednotka RAM"
+
+#~ msgctxt "#30003"
+#~ msgid "System > Video Output"
+#~ msgstr "Systém > Výstup videa"
+
+#~ msgctxt "#30004"
+#~ msgid "System > VDC Video RAM"
+#~ msgstr "Systém > Video RAM VDC"
+
+#~ msgctxt "#30005"
+#~ msgid "System > GO64"
+#~ msgstr "Systém > GO64"
+
+#~ msgctxt "#30006"
+#~ msgid "System > JiffyDOS"
+#~ msgstr "Systém > JiffyDOS"
+
+#~ msgctxt "#30007"
+#~ msgid "System > Read 'vicerc'"
+#~ msgstr "Systém > Načíst 'vicerc'"
+
+#~ msgctxt "#30008"
+#~ msgid "System > Reset Type"
+#~ msgstr "Systém > Typ resetu"
+
+#~ msgctxt "#30009"
+#~ msgid "Media > Automatic Load Warp"
+#~ msgstr "Média > Automatické zrychlení při načítání"
+
+#~ msgctxt "#30010"
+#~ msgid "Media > Warp Boost"
+#~ msgstr "Média > Posílení zrychleného režimu"
+
+#~ msgctxt "#30011"
+#~ msgid "Media > Autostart"
+#~ msgstr "Média > Automatické spuštění"
+
+#~ msgctxt "#30012"
+#~ msgid "Media > True Drive Emulation"
+#~ msgstr "Média > Věrná emulace mechaniky"
+
+#~ msgctxt "#30013"
+#~ msgid "Media > Virtual Device Traps"
+#~ msgstr "Média > Zachytávání virtuálních zařízení"
+
+#~ msgctxt "#30014"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "Média > Ochrana disket proti zápisu"
+
+#~ msgctxt "#30015"
+#~ msgid "Media > EasyFlash Write Protection"
+#~ msgstr "Média > Ochrana EasyFlash proti zápisu"
+
+#~ msgctxt "#30016"
+#~ msgid "Media > Global Work Disk"
+#~ msgstr "Média > Globální pracovní disk"
+
+#~ msgctxt "#30017"
+#~ msgid "Media > Cartridge"
+#~ msgstr "Média > Cartridge"
+
+#~ msgctxt "#30019"
+#~ msgid "Video > Pixel Aspect Ratio"
+#~ msgstr "Video > Poměr stran pixelů"
+
+#~ msgctxt "#30020"
+#~ msgid "Video > Crop"
+#~ msgstr "Video > Oříznutí"
+
+#~ msgctxt "#30022"
+#~ msgid "Video > Crop Mode"
+#~ msgstr "Video > Režim oříznutí"
+
+#~ msgctxt "#30024"
+#~ msgid "Video > Manual Crop Top"
+#~ msgstr "Video > Ruční oříznutí nahoře"
+
+#~ msgctxt "#30025"
+#~ msgid "Video > Manual Crop Bottom"
+#~ msgstr "Video > Ruční oříznutí dole"
+
+#~ msgctxt "#30026"
+#~ msgid "Video > Manual Crop Left"
+#~ msgstr "Video > Ruční oříznutí vlevo"
+
+#~ msgctxt "#30027"
+#~ msgid "Video > Manual Crop Right"
+#~ msgstr "Video > Ruční oříznutí vpravo"
+
+#~ msgctxt "#30028"
+#~ msgid "Video > VDC Filter"
+#~ msgstr "Video > Filtr VDC"
+
+#~ msgctxt "#30029"
+#~ msgid "Video > VIC-II Filter"
+#~ msgstr "Video > Filtr VIC-II"
+
+#~ msgctxt "#30030"
+#~ msgid "Video > VIC-II Filter Oddline Offset"
+#~ msgstr "Video > Posun lichých řádků filtru VIC-II"
+
+#~ msgctxt "#30031"
+#~ msgid "Video > VIC-II Filter Oddline Phase"
+#~ msgstr "Video > Fáze lichých řádků filtru VIC-II"
+
+#~ msgctxt "#30032"
+#~ msgid "Video > VIC-II Color Palette"
+#~ msgstr "Video > Barevná paleta VIC-II"
+
+#~ msgctxt "#30033"
+#~ msgid "Video > VIC-II Color Gamma"
+#~ msgstr "Video > Gama barev VIC-II"
+
+#~ msgctxt "#30034"
+#~ msgid "Video > VIC-II Color Brightness"
+#~ msgstr "Video > Jas barev VIC-II"
+
+#~ msgctxt "#30035"
+#~ msgid "Video > VIC-II Color Contrast"
+#~ msgstr "Video > Kontrast barev VIC-II"
+
+#~ msgctxt "#30036"
+#~ msgid "Video > VIC-II Color Saturation"
+#~ msgstr "Video > Sytost barev VIC-II"
+
+#~ msgctxt "#30037"
+#~ msgid "Video > VIC-II Color Tint"
+#~ msgstr "Video > Odstín barev VIC-II"
+
+#~ msgctxt "#30038"
+#~ msgid "Video > Color Depth"
+#~ msgstr "Video > Barevná hloubka"
+
+#~ msgctxt "#30039"
+#~ msgid "OSD > Virtual KBD Theme"
+#~ msgstr "OSD > Motiv virtuální klávesnice"
+
+#~ msgctxt "#30040"
+#~ msgid "OSD > Virtual KBD Transparency"
+#~ msgstr "OSD > Průhlednost virtuální klávesnice"
+
+#~ msgctxt "#30041"
+#~ msgid "OSD > Virtual KBD Dimming"
+#~ msgstr "OSD > Ztmavení okolí virtuální klávesnice"
+
+#~ msgctxt "#30042"
+#~ msgid "OSD > Statusbar Mode"
+#~ msgstr "OSD > Režim stavového řádku"
+
+#~ msgctxt "#30043"
+#~ msgid "OSD > Statusbar Startup"
+#~ msgstr "OSD > Stavový řádek při spuštění"
+
+#~ msgctxt "#30044"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > Zprávy stavového řádku"
+
+#~ msgctxt "#30045"
+#~ msgid "OSD > Light Pen/Gun Pointer Color"
+#~ msgstr "OSD > Barva ukazatele světelného pera/pistole"
+
+#~ msgctxt "#30047"
+#~ msgid "Audio > Drive Sound Emulation"
+#~ msgstr "Zvuk > Emulace zvuku disketové mechaniky"
+
+#~ msgctxt "#30048"
+#~ msgid "Audio > Datasette Sound"
+#~ msgstr "Zvuk > Zvuk jednotky Datasette"
+
+#~ msgctxt "#30049"
+#~ msgid "Audio > VIC-II Audio Leak Emulation"
+#~ msgstr "Zvuk > Emulace zvukového přeslechu VIC-II"
+
+#~ msgctxt "#30050"
+#~ msgid "Audio > SID Engine"
+#~ msgstr "Zvuk > Zvukový engine SID"
+
+#~ msgctxt "#30051"
+#~ msgid "Audio > SID Model"
+#~ msgstr "Zvuk > Model SID"
+
+#~ msgctxt "#30052"
+#~ msgid "Audio > SID Extra"
+#~ msgstr "Zvuk > Dodatečný SID"
+
+#~ msgctxt "#30053"
+#~ msgid "Audio > ReSID Sampling"
+#~ msgstr "Zvuk > Vzorkování ReSID"
+
+#~ msgctxt "#30054"
+#~ msgid "Audio > ReSID Filter Passband"
+#~ msgstr "Zvuk > Propustné pásmo filtru ReSID"
+
+#~ msgctxt "#30055"
+#~ msgid "Audio > ReSID Filter Gain"
+#~ msgstr "Zvuk > Zesílení filtru ReSID"
+
+#~ msgctxt "#30056"
+#~ msgid "Audio > ReSID Filter 6581 Bias"
+#~ msgstr "Zvuk > Předpětí filtru ReSID 6581"
+
+#~ msgctxt "#30057"
+#~ msgid "Audio > ReSID Filter 8580 Bias"
+#~ msgstr "Zvuk > Předpětí filtru ReSID 8580"
+
+#~ msgctxt "#30058"
+#~ msgid "Audio > SFX Sound Expander"
+#~ msgstr "Zvuk > SFX Sound Expander"
+
+#~ msgctxt "#30059"
+#~ msgid "Audio > Sample Rate"
+#~ msgstr "Zvuk > Vzorkovací frekvence"
+
+#~ msgctxt "#30060"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "Vstup > Myš přes analogovou páčku"
+
+#~ msgctxt "#30061"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "Vstup > Mrtvá zóna analogové páčky pro myš"
+
+#~ msgctxt "#30063"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "Vstup > Rychlost myši přes směrový ovladač"
+
+#~ msgctxt "#30064"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "Vstup > Rychlost myši"
+
+#~ msgctxt "#30065"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "Vstup > Předávání klávesnice"
+
+#~ msgctxt "#30066"
+#~ msgid "Input > Datasette Hotkeys"
+#~ msgstr "Vstup > Zkratky jednotky Datasette"
+
+#~ msgctxt "#30067"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "Vstup > Mapování numerické klávesnice Keyrah"
+
+#~ msgctxt "#30068"
+#~ msgid "Input > Keyboard Keymap"
+#~ msgstr "Vstup > Mapování klávesnice"
+
+#~ msgctxt "#30070"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "Zkratka > Přepnout virtuální klávesnici"
+
+#~ msgctxt "#30071"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "Zkratka > Přepnout stavový řádek"
+
+#~ msgctxt "#30072"
+#~ msgid "Hotkey > Switch Joyport"
+#~ msgstr "Zkratka > Přepnout joyport"
+
+#~ msgctxt "#30073"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "Zkratka > Přepnout automatickou střelbu"
+
+#~ msgctxt "#30074"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "Zkratka > Přepnout ukládací disk"
+
+#~ msgctxt "#30075"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "Zkratka > Resetovat"
+
+#~ msgctxt "#30076"
+#~ msgid "Hotkey > Hold Warp Mode"
+#~ msgstr "Zkratka > Držet zrychlený režim"
+
+#~ msgctxt "#30077"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Zkratka > Přepnout poměr stran"
+
+#~ msgctxt "#30078"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Zkratka > Přepnout oříznutí"
+
+#~ msgctxt "#30080"
+#~ msgid "Hotkey > Toggle Datasette Hotkeys"
+#~ msgstr "Zkratka > Přepnout zkratky jednotky Datasette"
+
+#~ msgctxt "#30081"
+#~ msgid "Hotkey > Datasette PLAY"
+#~ msgstr "Zkratka > Datasette PŘEHRÁT"
+
+#~ msgctxt "#30082"
+#~ msgid "Hotkey > Datasette STOP"
+#~ msgstr "Zkratka > Datasette ZASTAVIT"
+
+#~ msgctxt "#30083"
+#~ msgid "Hotkey > Datasette REWIND"
+#~ msgstr "Zkratka > Datasette PŘETOČIT ZPĚT"
+
+#~ msgctxt "#30084"
+#~ msgid "Hotkey > Datasette F.FWD"
+#~ msgstr "Zkratka > Datasette RYCHLE VPŘED"
+
+#~ msgctxt "#30085"
+#~ msgid "Hotkey > Datasette RESET"
+#~ msgstr "Zkratka > Datasette RESETOVAT"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > Nahoru"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > Dolů"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Doleva"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Doprava"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Select"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Start"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Levá analogová páčka > Nahoru"
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Levá analogová páčka > Dolů"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Levá analogová páčka > Doleva"
+
+#~ msgctxt "#30105"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Levá analogová páčka > Doprava"
+
+#~ msgctxt "#30106"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Pravá analogová páčka > Nahoru"
+
+#~ msgctxt "#30107"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Pravá analogová páčka > Dolů"
+
+#~ msgctxt "#30108"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Pravá analogová páčka > Doleva"
+
+#~ msgctxt "#30109"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Pravá analogová páčka > Doprava"
+
+#~ msgctxt "#30110"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Automatická střelba"
+
+#~ msgctxt "#30111"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Tlačítko automatické střelby"
+
+#~ msgctxt "#30112"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Pulz automatické střelby"
+
+#~ msgctxt "#30113"
+#~ msgid "Input > Userport Joystick Adapter"
+#~ msgstr "Vstup > Adaptér joysticku pro Userport"
+
+#~ msgctxt "#30114"
+#~ msgid "RetroPad > Joystick Port"
+#~ msgstr "RetroPad > Port joysticku"
+
+#~ msgctxt "#30115"
+#~ msgid "RetroPad > Joystick Port Type"
+#~ msgstr "RetroPad > Typ portu joysticku"
+
+#~ msgctxt "#30116"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "RetroPad > Volby čelních tlačítek"
+
+#~ msgctxt "#30117"
+#~ msgid "System > Printer"
+#~ msgstr "Systém > Tiskárna"
+
+#~ msgctxt "#30118"
+#~ msgid "Media > Floppy MultiDrive"
+#~ msgstr "Média > Více disketových mechanik"
+
+#~ msgctxt "#30119"
+#~ msgid "Video > Automatic Crop Delay"
+#~ msgstr "Video > Prodleva automatického oříznutí"
+
+#~ msgctxt "#30120"
+#~ msgid "Input > Left Analog Stick Mouse Speed"
+#~ msgstr "Vstup > Rychlost myši přes levou analogovou páčku"
+
+#~ msgctxt "#30121"
+#~ msgid "Input > Right Analog Stick Mouse Speed"
+#~ msgstr "Vstup > Rychlost myši přes pravou analogovou páčku"
 
 #~ msgctxt "#30207"
 #~ msgid "Remove borders according to 'Crop Mode'."
