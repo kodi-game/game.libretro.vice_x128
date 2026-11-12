@@ -396,10 +396,6 @@ msgctxt "#30206"
 msgid "1:1"
 msgstr ""
 
-msgctxt "#30207"
-msgid "Remove borders according to 'Crop Mode'."
-msgstr ""
-
 msgctxt "#30208"
 msgid "Small"
 msgstr ""
@@ -2880,6 +2876,10 @@ msgstr "VIC-II Emulación de Pérdida de Audio"
 msgctxt "#30817"
 msgid "Light Pen/Gun Pointer Color"
 msgstr "Motor SID"
+
+#~ msgctxt "#30207"
+#~ msgid "Remove borders according to 'Crop Mode'."
+#~ msgstr ""
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"
